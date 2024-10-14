@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "name": "Capsicum - Green",
+      "price": 30,
+      "originalPrice": 45.0,
+      "discount": "33% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000067_26-fresho-capsicum-green.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 2,
+      "name": "Carrot - Orange",
+      "price": 42,
+      "originalPrice": 90.41,
+      "discount": "54% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000070_16-fresho-carrot-orange.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 3,
+      "name": "Cauliflower",
+      "price": 55,
+      "originalPrice": 70.0,
+      "discount": "21% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000074_20-fresho-cauliflower.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 4,
+      "name": "Coriander Leaves",
+      "price": 20,
+      "originalPrice": 25.0,
+      "discount": "20% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000326_16-fresho-coriander-leaves.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 5,
+      "name": "Cucumber",
+      "price": 30,
+      "originalPrice": 40.0,
+      "discount": "25% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40077518_1-fresho-cucumber.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 6,
+      "name": "Ladies Finger",
+      "price": 35,
+      "originalPrice": 50.0,
+      "discount": "30% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/10000142_18-fresho-ladies-finger.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 7,
+      "name": "Onion",
+      "price": 50,
+      "originalPrice": 70.0,
+      "discount": "28% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1201414_1-fresho-onion.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 8,
+      "name": "Tomato - Local",
+      "price": 25,
+      "originalPrice": 35.0,
+      "discount": "29% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1228332_1-fresho-tomato-local.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 9,
+      "name": "Beans - Haricot",
+      "price": 70,
+      "originalPrice": 90.0,
+      "discount": "22% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40089741_3-fresho-beans-haricot.jpg?tr=w-1920,q=80",
+      "category": "Vegetables"
+    },
+    {
+      "id": 10,
+      "name": "Nandini Pure Ghee",
+      "price": 480,
+      "originalPrice": 500.0,
+      "discount": "4% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1214144_1-nandini-pure-ghee.jpg?tr=w-1920,q=80",
+      "category": "Dairy & Ghee"
+    },
+    {
+      "id": 11,
+      "name": "Tata Salt - Iodized",
+      "price": 20,
+      "originalPrice": 25.0,
+      "discount": "20% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40081603_5-tata-salt-salt-iodized.jpg?tr=w-1920,q=80",
+      "category": "Spices & Salt"
+    },
+    {
+      "id": 12,
+      "name": "Fortune Sunflower Oil",
+      "price": 150,
+      "originalPrice": 180.0,
+      "discount": "17% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1228371_1-fortune-sun-lite-refined-sunflower-oil.jpg?tr=w-1920,q=80",
+      "category": "Oils"
+    },
+    {
+      "id": 13,
+      "name": "Black Pepper (Kali Mirch)",
+      "price": 120,
+      "originalPrice": 150.0,
+      "discount": "20% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40073432_7-bb-popular-black-pepperkali-mirch.jpg?tr=w-1920,q=80",
+      "category": "Spices & Salt"
+    },
+    {
+      "id": 14,
+      "name": "Tata Sampann White Poha",
+      "price": 40,
+      "originalPrice": 50.0,
+      "discount": "20% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1223978_2-tata-sampann-white-thick-poha-high-in-fibre-for-breakfast-evening-tea.jpg?tr=w-1920,q=80",
+      "category": "Grains & Cereals"
+    },
+    {
+      "id": 15,
+      "name": "Madhur Sugar",
+      "price": 45,
+      "originalPrice": 55.0,
+      "discount": "18% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/40253564_1-madhur-sugar-pure-hygienic-fine-grain-natural-sulphur-free.jpg?tr=w-1920,q=80",
+      "category": "Sugar & Sweeteners"
+    },
+    {
+      "id": 16,
+      "name": "Haldiram's Mixture",
+      "price": 90,
+      "originalPrice": 110.0,
+      "discount": "18% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/263120_4-haldirams-namkeen-mixture.jpg?tr=w-1920,q=80",
+      "category": "Snacks"
+    },
+    {
+      "id": 17,
+      "name": "Britannia Marie Gold",
+      "price": 30,
+      "originalPrice": 35.0,
+      "discount": "14% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1200160_4-britannia-marie-gold-biscuits.jpg?tr=w-1920,q=80",
+      "category": "Snacks"
+    },
+    {
+      "id": 18,
+      "name": "Maggi Veg Atta Noodles",
+      "price": 20,
+      "originalPrice": 25.0,
+      "discount": "20% OFF",
+      "image": "https://www.bigbasket.com/media/uploads/p/m/1232551_1-maggi-nutri-licious-masala-veg-atta-instant-noodles.jpg?tr=w-1920,q=80",
+      "category": "Instant Foods"
+    }
+  ]
+  

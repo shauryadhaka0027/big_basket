@@ -73,3 +73,10 @@ Before you begin, ensure you have the following installed on your machine:
 
 4. **Delete Item**:
    - Remove products from the list using the delete option.
+  
+   ![Screenshot 2024-10-10 183452](https://github.com/user-attachments/assets/5b10b1c4-54b8-470d-a5ca-888ba79a21d9)
+![Screenshot 2024-10-14 081531](https://github.com/user-attachments/assets/3213053b-4a6c-43e7-95b6-e9de9afb3edb)
+![Screenshot 2024-10-14 105134](https://github.com/user-attachments/assets/96fe548f-bc2b-4244-8f32-04de2135d7c6)
+![Screenshot 2024-10-14 174457](https://github.com/user-attachments/assets/74f238b9-f3d0-45d6-adba-82bf1a841815)
+![Screenshot 2024-10-14 174857](https://github.com/user-attachments/assets/ea00fcbf-344e-42be-a720-53b203558bdd)
+![Screenshot 2024-10-14 174910](https://github.com/user-attachments/assets/e758cf14-b3d9-469f-a4f5-3cb43c3b7438)
